@@ -1,0 +1,258 @@
+[
+    {
+        "num": "1",
+        "date": "2017.3.28",
+        "city_tv": "1.523",
+        "city_tv_per": "4.49",
+        "china_tv": "2.41",
+        "china_tv_per": "7.37"
+    },
+    {
+        "num": "2",
+        "date": "2017.3.29",
+        "city_tv": "1.490",
+        "city_tv_per": "4.69",
+        "china_tv": "2.30",
+        "china_tv_per": "7.31"
+    },
+    {
+        "num": "3-4",
+        "date": "2017.3.30",
+        "city_tv": "1.270",
+        "city_tv_per": "4.02",
+        "china_tv": "1.62",
+        "china_tv_per": "5.41"
+    },
+    {
+        "num": "5",
+        "date": "2017.3.31",
+        "city_tv": "1.084",
+        "city_tv_per": "3.370",
+        "china_tv": "1.61",
+        "china_tv_per": "5.66"
+    },
+    {
+        "num": "6",
+        "date": "2017.4.1",
+        "city_tv": "1.239",
+        "city_tv_per": "3.97",
+        "china_tv": "1.46",
+        "china_tv_per": "4.83"
+    },
+    {
+        "num": "7-8",
+        "date": "2017.4.2",
+        "city_tv": "1.505",
+        "city_tv_per": "4.77",
+        "china_tv": "1.60",
+        "china_tv_per": "5.30"
+    },
+    {
+        "num": "9-10",
+        "date": "2017.4.3",
+        "city_tv": "1.820",
+        "city_tv_per": "5.89",
+        "china_tv": "1.84",
+        "china_tv_per": "6.05"
+    },
+    {
+        "num": "11-12",
+        "date": "2017.4.4",
+        "city_tv": "2.024",
+        "city_tv_per": "6.34",
+        "china_tv": "2.03",
+        "china_tv_per": "6.82"
+    },
+    {
+        "num": "13-14",
+        "date": "2017.4.5",
+        "city_tv": "2.264",
+        "city_tv_per": "7.11",
+        "china_tv": "2.16",
+        "china_tv_per": "7.33"
+    },
+    {
+        "num": "15-16",
+        "date": "2017.4.6",
+        "city_tv": "2.444",
+        "city_tv_per": "7.70",
+        "china_tv": "2.18",
+        "china_tv_per": "7.47"
+    },
+    {
+        "num": "17",
+        "date": "2017.4.7",
+        "city_tv": "2.083",
+        "city_tv_per": "6.42",
+        "china_tv": "1.93",
+        "china_tv_per": "6.36"
+    },
+    {
+        "num": "18",
+        "date": "2017.4.8",
+        "city_tv": "2.275",
+        "city_tv_per": "6.94",
+        "china_tv": "2.06",
+        "china_tv_per": "6.59"
+    },
+    {
+        "num": "19-20",
+        "date": "2017.4.9",
+        "city_tv": "3.035",
+        "city_tv_per": "9.01",
+        "china_tv": "2.57",
+        "china_tv_per": "8.31"
+    },
+    {
+        "num": "21-22",
+        "date": "2017.4.10",
+        "city_tv": "3.287",
+        "city_tv_per": "10.30",
+        "china_tv": "2.77",
+        "china_tv_per": "9.29"
+    },
+    {
+        "num": "23-24",
+        "date": "2017.4.11",
+        "city_tv": "3.524",
+        "city_tv_per": "11.09",
+        "china_tv": "2.93",
+        "china_tv_per": "9.89"
+    },
+    {
+        "num": "25-26",
+        "date": "2017.4.12",
+        "city_tv": "3.649",
+        "city_tv_per": "11.79",
+        "china_tv": "2.87",
+        "china_tv_per": "9.91"
+    },
+    {
+        "num": "27-28",
+        "date": "2017.4.13",
+        "city_tv": "3.711",
+        "city_tv_per": "12.05",
+        "china_tv": "3.15",
+        "china_tv_per": "11.00"
+    },
+    {
+        "num": "29",
+        "date": "2017.4.14",
+        "city_tv": "3.020",
+        "city_tv_per": "9.670",
+        "china_tv": "2.41",
+        "china_tv_per": "8.19"
+    },
+    {
+        "num": "30",
+        "date": "2017.4.15",
+        "city_tv": "3.138",
+        "city_tv_per": "10.132",
+        "china_tv": "2.39",
+        "china_tv_per": "8.17"
+    },
+    {
+        "num": "31-32",
+        "date": "2017.4.16",
+        "city_tv": "4.202",
+        "city_tv_per": "12.80",
+        "china_tv": "3.20",
+        "china_tv_per": "10.50"
+    },
+    {
+        "num": "33-34",
+        "date": "2017.4.17",
+        "city_tv": "4.793",
+        "city_tv_per": "15.44",
+        "china_tv": "3.51",
+        "china_tv_per": "11.99"
+    },
+    {
+        "num": "35-36",
+        "date": "2017.4.18",
+        "city_tv": "5.061",
+        "city_tv_per": "16.70",
+        "china_tv": "3.78",
+        "china_tv_per": "13.35"
+    },
+    {
+        "num": "37-38",
+        "date": "2017.4.19",
+        "city_tv": "5.356",
+        "city_tv_per": "17.15",
+        "china_tv": "4.02",
+        "china_tv_per": "13.72"
+    },
+    {
+        "num": "39-40",
+        "date": "2017.4.20",
+        "city_tv": "5.465",
+        "city_tv_per": "16.97",
+        "china_tv": "3.91",
+        "china_tv_per": "13.33"
+    },
+    {
+        "num": "41",
+        "date": "2017.4.21",
+        "city_tv": "4.432",
+        "city_tv_per": "13.86",
+        "china_tv": "3.51",
+        "china_tv_per": "11.42"
+    },
+    {
+        "num": "42",
+        "date": "2017.4.22",
+        "city_tv": "4.311",
+        "city_tv_per": "14.18",
+        "china_tv": "3.04",
+        "china_tv_per": "10.84"
+    },
+    {
+        "num": "43",
+        "date": "2017.4.23",
+        "city_tv": "6.069",
+        "city_tv_per": "20.14",
+        "china_tv": "4.30",
+        "china_tv_per": "16.44"
+    },
+    {
+        "num": "44-45",
+        "date": "2017.4.24",
+        "city_tv": "5.801",
+        "city_tv_per": "18.65",
+        "china_tv": "4.39",
+        "china_tv_per": "15.06"
+    },
+    {
+        "num": "46-47",
+        "date": "2017.4.25",
+        "city_tv": "6.123",
+        "city_tv_per": "18.89",
+        "china_tv": "4.78",
+        "china_tv_per": "15.97"
+    },
+    {
+        "num": "48-49",
+        "date": "2017.4.26",
+        "city_tv": "6.682",
+        "city_tv_per": "20.78",
+        "china_tv": "5.27",
+        "china_tv_per": "17.45"
+    },
+    {
+        "num": "50-51",
+        "date": "2017.4.27",
+        "city_tv": "6.695",
+        "city_tv_per": "21.25",
+        "china_tv": "5.46",
+        "china_tv_per": "18.62"
+    },
+    {
+        "num": "52",
+        "date": "2017.4.28",
+        "city_tv": "6.666",
+        "city_tv_per": "20.13",
+        "china_tv": "5.58",
+        "china_tv_per": "17.76"
+    }
+]
